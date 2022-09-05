@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap >
+    <entry>
+        <key>mainActivityText</key>
+        <value>Welcome to my awesome app!</value>
+    </entry>
+
+    <entry>
+        <key>isShowGoogle</key>
+        <value>false</value>
+    </entry>
+</defaultsMap>

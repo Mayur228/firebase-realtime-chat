@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Demo</string>
+    <string name="default_notification_channel_id">1</string>
+    <string name="your_web_client_id">416268293536-4fluamvrhv2hn1i74n3nkj7mmvhjk7eb.apps.googleusercontent.com</string>
+</resources>
